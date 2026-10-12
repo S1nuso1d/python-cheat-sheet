@@ -1,0 +1,9 @@
+.venv/
+.idea/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+_cheat.db
+cheat_demo.txt
+_demo.csv
